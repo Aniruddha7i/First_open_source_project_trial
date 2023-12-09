@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* background color  */
+body{
+    background: linear-gradient(to right, red,rgb(39, 244, 114));
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Phudu', sans-serif;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+p{
+    margin-top: 2rem;
+}
+input{
+    margin-top: 2rem;
+}
